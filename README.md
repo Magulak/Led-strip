@@ -1,2 +1,2 @@
-# Led-strip
-todo
+# Projekt polega na stworzeniu systemu sterowania paskiem LED opartym o mikrokontroler ESP (np. ESP32 lub ESP8266). Za pomocą komunikacji sieciowej (Wi-Fi) można kontrolować kolory i efekty świetlne paska LED poprzez aplikację napisaną w Pythonie na komputerze. Python pełni rolę interfejsu użytkownika, wysyłając komendy do ESP, które następnie steruje diodami LED (np. typu WS2812B). Rozwiązanie umożliwia zmianę barw, jasności, trybów animacji oraz integrację z innymi systemami, np. harmonogramem czy czujnikami.
+
